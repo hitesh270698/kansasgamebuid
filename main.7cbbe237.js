@@ -7,4 +7,3 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{"../Helper/CST":"SEFJ"}],"HJDO":[function(require,module,exports) {
 "use strict";var e=require("./Scene/LoadScene"),r=require("./Scene/MenuScene"),a=new Phaser.Game({type:Phaser.WEBGL,width:1280,height:720,render:{pixelArt:!0},scene:[e.LoadScene,r.MenuScene],scale:{mode:Phaser.Scale.FIT,autoCenter:Phaser.Scale.CENTER_BOTH}});
 },{"./Scene/LoadScene":"vu3y","./Scene/MenuScene":"ytE1"}]},{},["HJDO"], null)
-//# sourceMappingURL=/main.7cbbe237.js.map
